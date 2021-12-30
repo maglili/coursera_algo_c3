@@ -68,7 +68,7 @@ def prep_graph(path):
 if __name__ == "__main__":
     random.seed(0)
 
-    path = "./edges.txt"
+    path = "./data/edges.txt"
     vertices, edge_list = prep_graph(path)
     MST = prim_mst(vertices, edge_list)
 

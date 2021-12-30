@@ -10,7 +10,7 @@ def completion_time(ans):
     return sum_
 
 
-path = "./jobs.txt"
+path = "./data/jobs.txt"
 jobs = []
 with open(path, "r") as fh:
     for idx, row in enumerate(fh):
