@@ -7,3 +7,4 @@
 Coursera course: [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy/home/welcome) assignments.
 
 - [Week 1: greedy algorithms / Prim's minimum spanning tree algorithm](./week1)
+- [Week 2: clustering algorithm](./week2)
